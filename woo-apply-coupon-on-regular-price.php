@@ -9,7 +9,7 @@
  * Plugin Name:       Woo Apply Coupon On Regular Price
  * Plugin URI:        https://https://titasbhukta.in/
  * Description:       This is a plugin to allow the coupon to be calculated on the regular price instead of the sale price.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Titas Bhukta
  * Author URI:        https://titasbhukta.in
  * License:           GPL-2.0+
